@@ -50,6 +50,14 @@ Use a real email, this email can be used in the future with advanced features an
 <img src="https://i.imgur.com/L551WLF.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+Select Management Interface (Internet access):  <br/>
+Pick a hostname, something.something:  <br/>
+Pick an IP address for your Proxmox ensure this IP is outside of your DCHP range.:  <br/>
+Select your gateway and DNS server address (Depending on your setup, these may be the same):  <br/>
+<img src="https://i.imgur.com/JtQJOzc.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
+
 
 </p>
 
