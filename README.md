@@ -1,4 +1,4 @@
-<h1>SQL - Proxmox Server Setup (Virtual Machines) </h1>
+<h1>Proxmox Server Setup (Virtual Machines) </h1>
 
 
 <h2>Description</h2>
