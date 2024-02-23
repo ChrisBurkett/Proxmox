@@ -65,6 +65,8 @@ This server will be headless, we will login into the Proxmox server over the net
 <br />
 <br />
 <h2>Proxmox and Network settings:</h2>
+<p align="center">
+ 
 Verfy your server IP is outside of your DCHP:  <br/>
 Fix your IP address on your network for your new server: <br/>
 <img src="https://i.imgur.com/FyWXyk9.png" height="80%" width="80%" alt="Desk"/>
