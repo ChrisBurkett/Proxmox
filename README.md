@@ -34,12 +34,14 @@ Select Proxmox VE GNU/Linux to initialize the installer:  <br/>
 <img src="https://i.imgur.com/qZJHivm.jpeg" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
-I used the Install Proxmox VE (Terminal UI) because my graphics cards is failing and this server will be running headless.:  <br/>
+I used the Install Proxmox VE (Terminal UI) because my graphics cards is failing and this server will be running headless:  <br/>
 <img src="https://i.imgur.com/EQ0sMkF.jpeg" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
-Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
-<img src="https://i.imgur.com/2Fs7Hin.png" height="80%" width="80%" alt="Desk"/>
+Accept the ULA:  <br/>
+Select the drive to install Proxmox:  <br/>
+Select your Country, Timezone, and Keyboard:  <br/>
+<img src="https://i.imgur.com/r9EIJ1y.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 
