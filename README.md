@@ -79,8 +79,8 @@ Last resize "resize2fs /dev/mapper/pve-root:  <br/>
 <br />
 <br />
 We navigate to Storage in the Datacenter tab:  <br/>
-Highlight local-lvm and click remove:  
- <br/>This is not a required step, but it is good practice to clear any links to folders you have deleted:  <br/>
+Highlight local-lvm and click remove: <br/>
+This is not a required step, but it is good practice to clear any links to folders you have deleted:  <br/>
 Alocate the entire drive to your local storage for your VM, "lvresize -l +100%FREE /dev/pve/root":  <br/>
 Last resize "resize2fs /dev/mapper/pve-root:  <br/>
 <img src="https://i.imgur.com/Eaa0zi4.png" height="80%" width="80%" alt="Desk"/>
