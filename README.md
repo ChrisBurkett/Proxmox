@@ -88,13 +88,20 @@ resize2fs /dev/mapper/pve-root:  <br/>
 <img src="https://i.imgur.com/c2uExS0.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-We navigate to Storage in the Datacenter tab:  <br/>
+Navigate to Storage in the Datacenter tab:  <br/>
 Highlight local-lvm and click remove: <br/>
 This is not a required step, but it is good practice to clear any links to folders you have deleted:  <br/>
 <img src="https://i.imgur.com/Eaa0zi4.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
-
+Add VM and Docker Container abilities to Proxmox; <br/>
+Navigate to Datacenter. Storage, local:  <br/>
+Highlight local and Click edit: <br/>
+Under the general tab, click the Content Dropdown and select all options, click OK:  <br/>
+<img src="https://i.imgur.com/9jE7v71.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
+ 
 </p>
 
 <!--
