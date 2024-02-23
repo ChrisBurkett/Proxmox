@@ -25,8 +25,9 @@ Save and exit the Bios menu:  <br/>
 <img src="https://i.imgur.com/ugEpUHT.jpeg" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
-Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
-<img src="https://i.imgur.com/U4ZYIjE.png" height="80%" width="80%" alt="Keys"/>
+Continuous press F12 on reboot to enter the boot menu: <br/>
+Select Boot from USB: <br/>
+<img src="https://i.imgur.com/Ys7jEOx.jpeg" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
 Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
