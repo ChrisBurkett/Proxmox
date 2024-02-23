@@ -20,8 +20,8 @@ Continuous press the DELETE key after turning on the computer to enter the Bios 
 <img src="https://i.imgur.com/NFBhLCl.jpeg" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
-Using a entity relationship diagram (ERD) as a reference, I created the following tables with the appropriate attributes and keys:  <br/>
-<img src="https://i.imgur.com/SszxVNY.png" height="80%" width="80%" alt="ERD"/>
+Find and enable SVM Mode (Secure Virtual Machine):  <br/>
+<img src="https://i.imgur.com/ugEpUHT.jpeg" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
 Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
