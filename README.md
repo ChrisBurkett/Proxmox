@@ -98,7 +98,7 @@ Add VM and Docker Container abilities to Proxmox; <br/>
 Navigate to Datacenter. Storage, local:  <br/>
 Highlight local and Click edit: <br/>
 Under the general tab, click the Content Dropdown and select all options, click OK:  <br/>
-<img src="https://i.imgur.com/9jE7v71.png" height="80%" width="80%" alt="Desk"/>
+<img src="https://i.imgur.com/6V0Q1f3.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
  
