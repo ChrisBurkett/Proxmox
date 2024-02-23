@@ -21,6 +21,7 @@ Continuous press the DELETE key after turning on the computer to enter the Bios 
 <br />
 <br />
 Find and enable SVM Mode (Secure Virtual Machine):  <br/>
+Save and exit the Bios menu:  <br/>
 <img src="https://i.imgur.com/ugEpUHT.jpeg" height="80%" width="80%" alt="ERD"/>
 <br />
 <br />
