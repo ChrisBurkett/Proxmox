@@ -30,12 +30,12 @@ Select Boot from USB: <br/>
 <img src="https://i.imgur.com/Ys7jEOx.jpeg" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
-Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
-<img src="https://i.imgur.com/BcG0LjL.png" height="80%" width="80%" alt="RMA"/>
+Select Proxmox VE GNU/Linux to initialize the installer:  <br/>
+<img src="https://i.imgur.com/qZJHivm.jpeg" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
-Manually add 10 records into the Customers table:  <br/>
-<img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="Records"/>
+I used the Install Proxmox VE (Terminal UI) because my graphics cards is failing and this server will be running headless.:  <br/>
+<img src="https://i.imgur.com/EQ0sMkF.jpeg" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
 Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
