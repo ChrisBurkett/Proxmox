@@ -2,22 +2,22 @@
 
 
 <h2>Description</h2>
-Project consists of a building a persistent server for my home lab.  Creating on premises resources for enterprise virtualization.
+Project consists of a building a persistent server for my home lab.  Creating on premises resources for enterprise virtualization and Security Information and Event Management (SIEM) testing.
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>MySQL</b>
+- <b>Old computer I built with a dying graphics cards</b>
 
-<h2>Environments Used </h2>
+<h2>Virtual Environment Used </h2>
 
-- <b>Codio</b>
+- <b>Proxmox</b>
 
-<h2>Navigating MySQL:</h2>
+<h2>Bios Settings:</h2>
 
 <p align="center">
-Creating a Database and Listing the Databases available: <br/>
-<img src="https://i.imgur.com/cPtXXSx.png" height="80%" width="80%" alt="Creating"/>
+Continuous press the DELETE key after turning on the computer to enter the Bios menu.: <br/>
+<img src="https://i.imgur.com/NFBhLCl.jpeg" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
 Using a entity relationship diagram (ERD) as a reference, I created the following tables with the appropriate attributes and keys:  <br/>
