@@ -1,8 +1,8 @@
-<h1>SQL - Structured Query Language</h1>
+<h1>SQL - Proxmox Server Setup (Virtual Machines) </h1>
 
 
 <h2>Description</h2>
-Project consists of a simple walkthough of MySQL.  Creating a new database, using a Entity Relationship Diagram (ERD), manually adding records in a table, create new SQL Views.
+Project consists of a building a persistent server for my home lab.  Creating on premises resources for enterprise virtualization.
 
 
 <h2>Languages and Utilities Used</h2>
