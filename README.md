@@ -58,6 +58,7 @@ Select your gateway and DNS server address (Depending on your setup, these may b
 <img src="https://i.imgur.com/JtQJOzc.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+<h2>Proxmox and Network settings:</h2>
 Verify your info and Install:  <br/>
 Wait for the instal to finish and the computer to restart:  <br/>
 This server will be headless, we will login into the Proxmox server over the network:  <br/>
