@@ -44,6 +44,12 @@ Select your Country, Timezone, and Keyboard:  <br/>
 <img src="https://i.imgur.com/r9EIJ1y.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+Add a strong root password:  <br/>
+Add an Administrator email:  <br/>
+Use a real email, this email can be used in the future with advanced features and updates:  <br/>
+<img src="https://i.imgur.com/L551WLF.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
 
 </p>
 
