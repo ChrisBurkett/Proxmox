@@ -77,17 +77,18 @@ Use your admin password and login:  <br/>
 Click OK for No valid subscription, Proxmox does not require a subscription:  <br/>
 Under your data center select your server, then open your sell:  <br/>
 Ensure your local file is using all of your space:  <br/>
-First delete your local file with the following command "lvremove /dev/pve/data":  <br/>
-Alocate the entire drive to your local storage for your VM, "lvresize -l +100%FREE /dev/pve/root":  <br/>
-Last resize "resize2fs /dev/mapper/pve-root:  <br/>
+First delete your local file with the following command <br/> 
+lvremove /dev/pve/data <br/>
+Alocate the entire drive to your local storage for your VM <br/> 
+lvresize -l +100%FREE /dev/pve/root  <br/>
+Last resize command <br/> 
+resize2fs /dev/mapper/pve-root:  <br/>
 <img src="https://i.imgur.com/c2uExS0.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
 We navigate to Storage in the Datacenter tab:  <br/>
 Highlight local-lvm and click remove: <br/>
 This is not a required step, but it is good practice to clear any links to folders you have deleted:  <br/>
-Alocate the entire drive to your local storage for your VM, "lvresize -l +100%FREE /dev/pve/root":  <br/>
-Last resize "resize2fs /dev/mapper/pve-root:  <br/>
 <img src="https://i.imgur.com/Eaa0zi4.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
