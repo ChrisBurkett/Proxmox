@@ -63,6 +63,11 @@ This server will be headless, we will login into the Proxmox server over the net
 <img src="https://i.imgur.com/7CO1IN5.png" height="80%" width="80%" alt="Desk"/>
 <br />
 <br />
+Verfy your server IP is outside of your DCHP:  <br/>
+Fix your IP address on your network for your new server: <br/>
+<img src="https://i.imgur.com/FyWXyk9.png" height="80%" width="80%" alt="Desk"/>
+<br />
+<br />
 Navigate to your Proxmox server address in a web browser:  <br/>
 User name, root:  <br/>
 Use your admin password and login:  <br/>
