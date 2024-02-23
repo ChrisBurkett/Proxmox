@@ -30,6 +30,7 @@ Select Boot from USB: <br/>
 <img src="https://i.imgur.com/Ys7jEOx.jpeg" height="80%" width="80%" alt="Keys"/>
 <br />
 <br />
+<h2>Proxmox install:</h2>
 Select Proxmox VE GNU/Linux to initialize the installer:  <br/>
 <img src="https://i.imgur.com/qZJHivm.jpeg" height="80%" width="80%" alt="RMA"/>
 <br />
