@@ -16,7 +16,7 @@ Project consists of a building a persistent server for my home lab.  Creating on
 <h2>Bios Settings:</h2>
 
 <p align="center">
-Continuous press the DELETE key after turning on the computer to enter the Bios menu.: <br/>
+To enter the Bios menu continuous press the DELETE key after powering the computer on: <br/>
 <img src="https://i.imgur.com/NFBhLCl.jpeg" height="80%" width="80%" alt="Creating"/>
 <br />
 <br />
